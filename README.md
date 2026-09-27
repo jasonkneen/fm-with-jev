@@ -169,4 +169,7 @@ Question types are `choice`, `score` and `noul`. One request can ask several que
 ## Related
 
 - [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router): per-turn Jev routing for Claude Code and Codex
-- `../hermes-jev-skills`, `../fast-jev-compaction`, `../jev-ultrafast`, `../jev-workflow-builder`
+- [kerpopule/hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills): Jev skills for routing, memory, compaction, triage, computer and browser use
+- [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction): Jev helper tools for compaction, ranking and routing
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast): browser agent driven by Jev decisions
+- [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder): multiplayer Jev workflow builder
